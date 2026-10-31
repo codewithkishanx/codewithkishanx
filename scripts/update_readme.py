@@ -34,10 +34,10 @@ DESCRIPTIONS = {
     "Dsa-Arcade-Frontend": "Frontend for DSA Arcade — algorithm practice turned into a game",
     "DSA_ARCADE-": "Main DSA Arcade app — gamified data-structures & algorithms practice",
     "Dsa-Arcade-Backend": "REST API powering DSA Arcade — auth, progress tracking, problem bank",
-    "STMP-FRONTEND": "Responsive frontend built with vanilla JS and a component-first mindset",
+    "STMP-FRONTEND": "Student Project Management System — role-based platform for students, mentors and admins",
     "Leetcode": "My Java solutions to LeetCode problems, organised by topic",
     "FinanceFlow": "AI-assisted finance tracker — spending insights and budget tracking",
-    "myfolio": "Personal portfolio site",
+    "myfolio": "MyFolio — AI-powered portfolio builder that deploys from an uploaded resume",
 }
 
 
