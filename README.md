@@ -2,12 +2,11 @@
   ╔══════════════════════════════════════════════════════════════════════════╗
   ║  codewithkishanx / codewithkishanx  ·  GitHub Profile README             ║
   ║                                                                          ║
-  ║  BEFORE PUBLISHING — replace the 3 remaining TODO placeholders:          ║
-  ║    [1] LinkedIn URL        (search: TODO-LINKEDIN)                       ║
-  ║    [2] Portfolio URL       (search: TODO-PORTFOLIO)                      ║
-  ║    [3] LeetCode username   (search: TODO-LEETCODE)  — used 2x            ║
+  ║  No placeholders left — everything below resolves.                        ║
   ║                                                                          ║
-  ║  Email is prefilled from your git config — change it if you prefer.       ║
+  ║  To add back LinkedIn / Portfolio / a live LeetCode stats card, send the  ║
+  ║  handles: the badge row is in the "social + contact" block, and the       ║
+  ║  LeetCode section sits right after "GitHub, live".                        ║
   ║                                                                          ║
   ║  Everything else (stats, snake, project list, last-updated) is wired up  ║
   ║  to GitHub Actions and stays fresh on its own.                           ║
@@ -25,10 +24,7 @@
 <br/>
 
 <!-- ── social + contact ─────────────────────────────────────────────── -->
-<a href="TODO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="TODO-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:kk1085035@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/TODO-LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://github.com/codewithkishanx?tab=followers"><img src="https://img.shields.io/github/followers/codewithkishanx?style=for-the-badge&color=A78BFA&labelColor=1e1e2e&logo=github" alt="Followers"/></a>
 
 <br/><br/>
@@ -104,8 +100,8 @@ Most of my work lives at the intersection of **problem solving** (Java, algorith
 
 <div align="center">
 
-<a href="https://leetcode.com/u/TODO-LEETCODE/">
-  <img src="https://leetcard.jacoblin.cool/TODO-LEETCODE?theme=dark&font=Fira%20Code&ext=heat" alt="LeetCode stats"/>
+<a href="https://github.com/codewithkishanx/Leetcode">
+  <img src="https://img.shields.io/badge/LeetCode_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode solutions"/>
 </a>
 
 </div>
